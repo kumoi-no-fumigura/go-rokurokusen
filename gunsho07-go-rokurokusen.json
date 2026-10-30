@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/go-rokurokusen",
  "yomi": "ごろくろくせん",
  "category": "私撰集",
- "description": null,
+ "description": {
+  "kind": "秀歌撰",
+  "era": "平安後期",
+  "author": "撰者 藤原範兼",
+  "desc": "公任の『三十六人撰』にならい、それに漏れた歌人から恵慶・和泉式部・紫式部・清少納言・能因ら36人を選び、各人の歌を数首ずつ収めた秀歌撰。"
+ },
  "editions": [
   {
    "pid": "1879496",
@@ -1666,6 +1671,6 @@
   "poems": 145,
   "editions": 1,
   "updated": "2026-10-29",
-  "updated_at": "2026-10-29T23:37:59+09:00"
+  "updated_at": "2026-10-29T23:55:04+09:00"
  }
 }
